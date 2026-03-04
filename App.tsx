@@ -413,6 +413,9 @@ const App: React.FC = () => {
               <p className="text-slate-400 font-bold text-sm leading-relaxed max-w-xs uppercase tracking-tight opacity-80">
                 The premier custom software partner for high-growth startups. Dedicated ongoing support.
               </p>
+              <p className="mt-6 text-slate-500 text-xs font-bold uppercase tracking-widest opacity-70">
+                Proudly in Canada 🇨🇦
+              </p>
             </div>
             <div>
               <h5 className="font-black text-blue-100 mb-10 uppercase tracking-[0.3em] text-[10px]">Expertise</h5>
@@ -424,7 +427,7 @@ const App: React.FC = () => {
             </div>
           </div>
           <div className="pt-12 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-8 text-[9px] text-slate-500 font-black uppercase tracking-[0.4em]">
-            <p>© 2026 Auraxis Technologies Inc. your software partner.</p>
+            <p>© 2026 Auraxis Technologies Inc - your software partner in Canada 🇨🇦</p>
           </div>
         </div>
       </footer>
